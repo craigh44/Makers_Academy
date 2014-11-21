@@ -18,6 +18,11 @@ Pre-Course
 
         - Walkthrough
         - Exercises
+        
+  
+  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat-challenge) (Friday Challenge)
+
+        - Github Practice
   - [ ] Ruby
 
         - Exercises from links
@@ -49,26 +54,18 @@ Week 1
 
   - [ ] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
+  - [ ] [Boris Bikes](https://github.com/makersacademy/course/boris_bikes.md) (Weekday Project)
 
-        - CRC
-        - TDD
-        - BDD
-        - OOD
-        - OOP
-        - RSpec
+        - CRC - Class Responsibility Cards
+        - TDD - Test Driven Development
+        - BDD - Behaviour Driven Development
+        - OOD - Object Oriented Development
+        - OOP - Object Oriented Development
+        - RSpec - Testing framework
+        - Chicago vs London Testing Styles
 
-  - [ ] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
+  - [ ] [FAAST](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
 
-        - Chicago Style Testing (Version 1)
-
-  - [ ] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
-
-        - London Style Testing (Version 2)
-
-  - [ ] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
-
-        - Github Practice
 
 Week 2
 ---------
@@ -79,24 +76,16 @@ Week 2
 
 ####Projects:
 
-  - [ ] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+  - [ ] [BattleShips](https://github.com/makersacademy/course/battle_ships.md) (Weekly Project)
 
         - Team Working
         - Modelling Domain
         - The game engine
         - User Interface
 
-  - [ ] [Take-Away](https://github.com/Scully87/Take_Away) (Weekend Challenge)
+  - [ ] [Take-Away](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
 
         - Twilio Gem
-
-  - [ ] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
-
-        - Simple Ruby Kata
-
-  - [ ] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
-
-        - Presentation for a SOLID principle
 
 
 Week 3
@@ -112,7 +101,7 @@ Week 3
 
 ####Projects:
 
-  - [ ] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+  - [ ] [BattleShips Web]((https://github.com/makersacademy/course/battle_ships_web.md) (Weekday Challenge)
 
         - Sinatra
         - Cucumber
