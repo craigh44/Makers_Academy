@@ -39,6 +39,7 @@ Pre-Course
         - First Project
 
   - [ ] Useful Links:
+
         - [Try Git](https://try.github.io/levels/1/challenges/1)
         - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
         - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
