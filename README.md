@@ -89,11 +89,11 @@ Week 2 (OO Ruby in Teams)
         - The game engine
         - User Interface
 
-  - [ ] [Take-Away](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
+  - [ ] [Take-Away (Rubyist Badge)](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
 
         - Twilio Gem
 
-  - [ ] [Inject Method](https://github.com/makersacademy/inject-challenge)
+  - [ ] [Inject Method (Rubyist Badge)](https://github.com/makersacademy/inject-challenge) (Friday Challenge)
 
         - Opening up the Inject method to get a better understanding
 
@@ -119,7 +119,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
         - Sessions
         - Params
 
-  - [ ] [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge) (Friday Challenge)
+  - [ ] [Rock Paper Scissors (Ronin Badge)](https://github.com/makersacademy/rps-challenge) (Friday Challenge)
 
         - Using knowledge from weekday project to create a version of RPS in the browser
 
@@ -143,7 +143,7 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
 
         - Learning how to use Databases
 
-  - [ ] [Twitter Clone](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
+  - [ ] [Twitter Clone (Data Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - Creating a twitter clone using Databases.
 
@@ -180,7 +180,7 @@ Week 5 (JavaScript Core)
 
         - Re-creating RPS in javascript language
 
-  - [ ] [Up Your Alley](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
+  - [ ] [Up Your Alley (Sentry? Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
 
         - Crreating a ten pin bowling scorer in Javascript
 
@@ -206,7 +206,7 @@ Week 6 (JavaScript Front End)
 
         - Create a simple page to show the use of Github user profiles through the developer API
 
-  - [ ] [Chitter](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
+  - [ ] [Chitter (Frontman? Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
 
@@ -251,7 +251,7 @@ Week 8 (Rails)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram](https://github.com/makersacademy/course/blob/master/instagram.md) (Friday Challenge)
+  - [ ] [TIMstagram (? Badge)](https://github.com/makersacademy/course/blob/master/instagram.md) (Friday Challenge)
 
         - A weekend project to re-create [Instagram](http://www.instagram.com)
 
