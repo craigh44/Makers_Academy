@@ -8,28 +8,33 @@ Many thanks to [Tim Scully](https://github.com/Scully87) for the design of this 
 Pre-Course
 -----------
 
-  - [ ] Introduction
-  - [ ] Expectations
-  - [ ] Command Line
+  - [ ] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
+  - [ ] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
+  - [ ] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
+  - [ ] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
+  - [ ] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
 
         - Walkthrough
         - Exercises
-  - [ ] Version Control (git)
+
+  - [ ] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
+
+  - [ ] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
 
         - Walkthrough
         - Exercises
-        
   
   - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat-challenge) (Friday Challenge)
 
         - Github Practice
-  - [ ] Ruby
+        
+  - [ ] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
 
         - Exercises from links
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/Scully87/student-directory)
+  - [ ] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
 
         - First Project
 
@@ -47,8 +52,8 @@ Week 1
 ---------
 
 ####Technologies Used:
-  - Ruby
-  - RSpec
+  - [Ruby](https://www.ruby-lang.org)
+  - [RSpec](https://relishapp.com/rspec)
 
 ####Projects:
 
@@ -56,7 +61,7 @@ Week 1
 
   - [ ] [Boris Bikes](https://github.com/makersacademy/course/boris_bikes.md) (Weekday Project)
 
-        - CRC - Class Responsibility Cards
+        - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
         - BDD - Behaviour Driven Development
         - OOD - Object Oriented Development
@@ -71,12 +76,12 @@ Week 2
 ---------
 
 ####Technologies Used:
-  - Ruby
-  - RSpec
+  - [Ruby](https://www.ruby-lang.org)
+  - [RSpec](https://relishapp.com/rspec)
 
 ####Projects:
 
-  - [ ] [BattleShips](https://github.com/makersacademy/course/battle_ships.md) (Weekly Project)
+  - [ ] [BattleShips](https://github.com/makersacademy/course/battle_ships.md) (Weekday Project)
 
         - Team Working
         - Modelling Domain
@@ -87,21 +92,25 @@ Week 2
 
         - Twilio Gem
 
+  - [ ] [Inject Method](https://github.com/makersacademy/inject-challenge)
+
+        - Opening up the Inject method to get a better understanding
+
 
 Week 3
 ---------
 
 ####Technologies Used:
-  - Ruby
-  - RSpec
-  - Sinatra
-  - Cucumber
-  - Capybara
-  - HTML
+  - [Ruby](https://www.ruby-lang.org)
+  - [RSpec](https://relishapp.com/rspec)
+  - [Sinatra](http://www.sinatrarb.com/)
+  - [Cucumber](http://cukes.info/)
+  - [Capybara](https://github.com/jnicklas/capybara)
+  - [HTML](http://www.w3schools.com/html/)
 
 ####Projects:
 
-  - [ ] [BattleShips Web]((https://github.com/makersacademy/course/battle_ships_web.md) (Weekday Challenge)
+  - [ ] [BattleShips Web]((https://github.com/makersacademy/course/battle_ships_web.md) (Weekday Project)
 
         - Sinatra
         - Cucumber
@@ -109,42 +118,31 @@ Week 3
         - Sessions
         - Params
 
-  - [ ] [Rock Paper Scissors](https://github.com/Scully87/Rock_Paper_Scissors) (Weekend Challenge)
+  - [ ] [Rock Paper Scissors](https://github.com/makersacademy/rps-challenge) (Friday Challenge)
 
-        - Using knowledge from weekday challenge to create a version of RPS in the browser
+        - Using knowledge from weekday project to create a version of RPS in the browser
 
-  - [ ] [Inject Method](https://github.com/Scully87/Ruby_Inject_Method)
-
-        - Opening up the Inject method to get a better understanding
-
-
-  - [ ] [Sinatra Test](https://github.com/Scully87/Sinatra_fun)
-
-        - A test repository to understand Sinatra
-
-  - [ ] [Cucumber Test](https://github.com/Scully87/Cucumber)
-
-        - A test repository to understand Cucumber
 
 Week 4
 --------
 
 ####Technologies Used:
-  - Ruby
-  - RSpec
-  - Sinatra
-  - Capybara
-  - PostgresQL
-  - HTML
-  - CSS
+
+  - [Ruby](https://www.ruby-lang.org)
+  - [RSpec](https://relishapp.com/rspec)
+  - [Sinatra](http://www.sinatrarb.com/)
+  - [Capybara](https://github.com/jnicklas/capybara)
+  - [PostgreSQL](http://www.postgresql.org/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
 
 ####Projects:
 
-  - [ ] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
+  - [ ] [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager.md) (Weekday Project)
 
         - Learning how to use Databases
 
-  - [ ] [Twitter Clone](https://github.com/Scully87/Gritter) (Weekend Challenge)
+  - [ ] [Twitter Clone](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - Creating a twitter clone using Databases.
 
@@ -152,12 +150,12 @@ Week 5
 ---------
 
 ####Technologies Used:
-  - Javascript
-  - Jasmine
-  - io
-  - HTML
-  - CSS
-  - Sinatra
+  - [Javascript](http://www.w3schools.com/js/)
+  - [Jasmine](http://jasmine.github.io/)
+  - [io](http://iolanguage.org/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [Sinatra](http://www.sinatrarb.com/)
 
 ####Projects:
 
