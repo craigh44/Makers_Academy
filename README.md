@@ -251,9 +251,9 @@ Week 8 (Rails)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram (? Badge)](https://github.com/makersacademy/course/blob/master/instagram.md) (Friday Challenge)
+  - [ ] [TIMstagram (? Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
 
-        - A weekend project to re-create [Instagram](http://www.instagram.com)
+        - A weekend project to re-create Instagram
 
 Week 9 (Makerthon)
 --------
