@@ -48,7 +48,7 @@ Pre-Course
         - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
         - [Ruby Koans](http://rubykoans.com)
 
-Week 1
+Week 1 (OO Ruby)
 ---------
 
 ####Technologies Used:
@@ -72,7 +72,7 @@ Week 1
   - [ ] [FAAST](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
 
 
-Week 2
+Week 2 (OO Ruby in Teams)
 ---------
 
 ####Technologies Used:
@@ -97,7 +97,7 @@ Week 2
         - Opening up the Inject method to get a better understanding
 
 
-Week 3
+Week 3 (Web Apps in Ruby Using Sinatra)
 ---------
 
 ####Technologies Used:
@@ -123,7 +123,7 @@ Week 3
         - Using knowledge from weekday project to create a version of RPS in the browser
 
 
-Week 4
+Week 4 (Database Web Apps in Ruby Using Sinatra)
 --------
 
 ####Technologies Used:
@@ -146,7 +146,7 @@ Week 4
 
         - Creating a twitter clone using Databases.
 
-Week 5
+Week 5 (JavaScript Core)
 ---------
 
 ####Technologies Used:
@@ -159,167 +159,169 @@ Week 5
 
 ####Projects:
 
-  - [ ] [Pokemon Game](https://github.com/Scully87/pokemon-game)
+  - [ ] [Fizzbuzz io](https://github.com/makersacademy/course/blob/master/pills/IoPill.md)  (Weekday Project)
 
-        - Re-creating a version of RPS using a different scenario
+        - Learn how to use the programming language io by doing a simple kata
 
-  - [ ] [Fizzbuzz io](https://github.com/Scully87/fizzbuzz_io)
+  - [ ] [Javabuzz](https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md)  (Weekday Project)
 
-        - Learnt how to use the programming language io by doing a simple kata
+        - Learn how to use the programming language javascript by doing a simple kata
 
-  - [ ] [Javabuzz](https://github.com/Scully87/Javabuzz)
+  - [ ] [Airport](https://github.com/makersacademy/airport-challenge) (Weekday Project)
 
-        - Learnt how to use the programming language javascript by doing a simple kata
+        - Use javascript to create an OOP program
 
-  - [ ] [Airport](https://github.com/Scully87/Airport_JS)
-
-        - Used javascript to create an OOP program
-
-  - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
+  - [ ] [FAAST JS](https://github.com/makersacademy/faast-challenge) (Weekday Project)
 
         - Another OOP program to recreate a previous project in Ruby
 
-  - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
+  - [ ] [Rock Paper Scissors JS](https://github.com/makersacademy/course/blob/master/rock_paper_scissors.md) (Weekday Project)
 
         - Re-creating RPS in javascript language
 
-  - [ ] [Up Your Alley](https://github.com/Scully87/Up-Your-Alley)(Weekend project)
+  - [ ] [Up Your Alley](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
 
         - Crreating a ten pin bowling scorer in Javascript
 
-Week 6
+Week 6 (JavaScript Front End)
 --------
 
 ####Technologies Used:
-  - Javascript
-  - Jasmine
-  - HTML
-  - CSS
-  - APIs
-  - Sinatra
-  - JQuery
+  - [Javascript](http://www.w3schools.com/js/)
+  - [Jasmine](http://jasmine.github.io/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [APIs](http://en.wikipedia.org/wiki/Application_programming_interface)
+  - [Sinatra](http://www.sinatrarb.com/)
+  - [JQuery](http://jquery.com/)
 
 ####Projects:
 
-  - [ ] [Thermostat](https://github.com/Scully87/Thermostat_js)
+  - [ ] [Thermostat](https://github.com/makersacademy/course/blob/master/challenges/thermostat.md) (Weekday Project)
 
-        - Created a program to show current temperature and local weather report in a static location (London).
+        - Create a program to show current temperature and local weather report in a static location (London).
 
-  - [ ] [Github Profiles API](https://github.com/Scully87/github_api)
+  - [ ] [Github Profiles API](https://github.com/makersacademy/profiles-challenge) (Weekday Project)
 
-        - Created a simple page to show the use of Github user profiles through the developer API
+        - Create a simple page to show the use of Github user profiles through the developer API
 
-  - [ ] [Chitter](https://github.com/Scully87/Chitter_v8)(Weekend Challenge)
+  - [ ] [Chitter](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
 
-Week 7
+Week 7 (Node)
 -------
 
 ####Technologies Used:
-  - Javascript
-  - JQuery
-  - Node.js
-  - Socket.io
-  - CoffeeScript
-  - Mocha
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [nodejs](http://nodejs.org/)
+  - [Socket.io](http://socket.io/)
+  - [CoffeeScript](http://coffeescript.org/)
+  - [Mocha](https://github.com/mochajs/mocha)
+
 
 ####Projects:
 
-  - [ ] [Chatter](https://github.com/Scully87/chat-example)
+  - [ ] [Chatter](https://github.com/makersacademy/course/blob/master/pills/node.md) (Weekday Project)
 
         - A simple server using sockets to make a chat program
 
-  - [ ] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
+  - [ ] [CoffeeBuzz](#) (Weekday Project)
 
         - A simple kata to understand the CoffeeScript language
 
-Week 8
+Week 8 (Rails)
 --------
 
 ####Technologies Used:
-  - Ruby
-  - Rails
-  - JQuery
-  - HTML
-  - CSS
-  - Devise
-  - Omniauth
+  - [Ruby](https://www.ruby-lang.org)
+  - [Rails](http://rubyonrails.org/)
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [Devise](https://github.com/plataformatec/devise)
+  - [Omniauth](https://github.com/intridea/omniauth)
 
 ####Projects:
 
-  - [ ] [Yelp Clone](https://github.com/Scully87/Yelp_clone)(weekday project)
+  - [ ] [Yelp Clone](https://github.com/makersacademy/course/blob/master/yelp.md) (Weekday Project)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram](https://github.com/Scully87/TIMstagram)(Weekend Challenge)
+  - [ ] [TIMstagram](https://github.com/makersacademy/course/blob/master/instagram.md) (Friday Challenge)
 
         - A weekend project to re-create [Instagram](http://www.instagram.com)
 
-Week 9
+Week 9 (Makerthon)
 --------
 
 ####Technologies Used:
-  - Javasript
-  - JQuery
-  - Node.js
-  - Socket.io
-  - Github API
-  - HTML
-  - CSS
+  - You tell us!
 
 ####Projects:
 
-  - [ ] [GitRacer](https://github.com/zrasool88/gitRacer)(Makeathon Week)
+  - [ ] Makerthon
 
-        - A program created to update live commit information of a users github profile.
+        - Small Team Projects.
 
-Week 10
+Week 10 (Five Languages in Five Days)
 ---------
 
 ####Technologies Used:
-  - Ruby
-  - RSpec
-  - Javascript
-  - Node
-  - Express
+  - [MetaProgramming](http://en.wikipedia.org/wiki/Metaprogramming)
+  - [Javascript](http://www.w3schools.com/js/)
+  - [Java](https://www.java.com/en/)
+  - [PHP](http://php.net/)
+  - [Python](https://www.python.org/)
+  - [Clojure](http://clojure.org/)
 
 ####Projects:
-
-  - [ ] [Sinatra Template Gem](https://github.com/Scully87/sinatra_template_gem) || [Click Here for Gem](http://rubygems.org/gems/sinatra_template)
-
-        - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
-
-  - [ ] [Testing Steve's "Make a Gem called"](https://github.com/Scully87/testing_gem_with_steve)
-
-    - Testing a gem creator by fellow maker [HatStephens](https://github.com/HatStephens) to be able to publish my own gem || [Click Here for the 'Make me a Gem Called' Gem](http://rubygems.org/gems/make_me_a_gem_called)
-
-  - [ ] [Sinatra Template](https://github.com/Scully87/Sinatra-Template)
-
-        - Simple sinatra template
-
-  - [ ] [Node Server Template](https://github.com/Scully87/Express_Template)
-
-        - Simple Node-Express server template
 
   - [ ] [Meta Programming](https://github.com/Scully87/Meta_Programming)
 
         - Learning how to use meta programming with Ruby
 
-  - [ ] [Javascripting](https://github.com/Scully87/Javascripting)
+  - [ ] [Javascripting](http://nodeschool.io/)
 
         - Javascript practice
 
+  - [ ] [Java](#)
+
+        - Introduction to Java
+
+  - [ ] [PHP](https://github.com/makersacademy/course/blob/master/pills/php.md)
+
+        - Introduction to PHP
+
+  - [ ] [Python](https://github.com/makersacademy/course/blob/master/pills/python.md)
+
+        - Introduction to Python
+
+  - [ ] [Clojure](#)
+
+        - Introduction to Clojure
 
 
 
-Week 11
+Week 11 (Final Project)
 ---------
 
+####Technologies Used:
+  - You tell us!
 
-Week 12
+####Projects:
+  - You tell us!
+
+Week 12 (Final Project)
 ---------
 
+####Technologies Used:
+  - You tell us!
+
+####Projects:
+  - You tell us!
 
 
 
