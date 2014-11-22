@@ -3,7 +3,7 @@ Makers Academy Course
 
 #####Weekly breakdown of the 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
 
-Many thanks to [Tim Scully](https://github.com/Scully87) for the design of this document
+Many thanks to [Tim Scully](https://github.com/Scully87) for the original design of this document
 
 Pre-Course
 -----------
@@ -70,7 +70,9 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
+  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge) 
+
+![Architect](images/badges/Architect_thumb.jpg)
 
 
 Week 2 (OO Ruby in Teams)
@@ -97,6 +99,7 @@ Week 2 (OO Ruby in Teams)
 
         - Opening up the Inject method to get a better understanding
 
+![Rubyist](images/badges/Rubyist_thumb.jpg)
 
 Week 3 (Web Apps in Ruby Using Sinatra)
 ---------
@@ -123,6 +126,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
 
         - Using knowledge from weekday project to create a version of RPS in the browser
 
+![Ronin](images/badges/Ronin_thumb.jpg)
 
 Week 4 (Database Web Apps in Ruby Using Sinatra)
 --------
@@ -146,6 +150,8 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
   - [ ] [Twitter Clone (Data Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - Creating a twitter clone using Databases.
+
+![Data](images/badges/Data_thumb.jpg)
 
 Week 5 (JavaScript Core)
 ---------
@@ -184,6 +190,8 @@ Week 5 (JavaScript Core)
 
         - Crreating a ten pin bowling scorer in Javascript
 
+![Sentry](images/badges/Sentry_thumb.jpg)
+
 Week 6 (JavaScript Front End)
 --------
 
@@ -209,6 +217,8 @@ Week 6 (JavaScript Front End)
   - [ ] [Chitter (Frontman? Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
+
+![Frontman](images/badges/Frontman_thumb.jpg)
 
 Week 7 (Node)
 -------
