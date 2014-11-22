@@ -70,7 +70,7 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [FAAST](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
+  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
 
 
 Week 2 (OO Ruby in Teams)
