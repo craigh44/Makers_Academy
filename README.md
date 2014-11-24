@@ -246,6 +246,8 @@ Week 7 (Node)
   - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
         - A brush up on your ruby skills
 
+![Sentry](images/badges/Sentry_thumb.jpg)
+
 Week 8 (Rails)
 --------
 
