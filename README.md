@@ -84,7 +84,7 @@ Week 2 (OO Ruby in Teams)
 
 ####Projects:
 
-  - [ ] [BattleShips](https://github.com/makersacademy/course/battle_ships.md) (Weekday Project)
+  - [ ] [BattleShips](https://github.com/makersacademy/course/blob/master/battle_ships.md) (Weekday Project)
 
         - Team Working
         - Modelling Domain
@@ -114,7 +114,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
 
 ####Projects:
 
-  - [ ] [BattleShips Web]((https://github.com/makersacademy/course/battle_ships_web.md) (Weekday Project)
+  - [ ] [BattleShips Web]((https://github.com/makersacademy/course/blob/master/battle_ships_web.md) (Weekday Project)
 
         - Sinatra
         - Cucumber
