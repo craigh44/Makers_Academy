@@ -264,7 +264,7 @@ Week 8 (Rails)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram (? Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
+  - [ ] [TIMstagram (Machinist Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
 
         - A weekend project to re-create Instagram
 
