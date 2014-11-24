@@ -304,7 +304,7 @@ Week 10 (Five Languages in Five Days)
 
         - Javascript practice
 
-  - [ ] [Java](#)
+  - [ ] [Java](https://github.com/makersacademy/course/blob/master/pills/java.md)
 
         - Introduction to Java
 
