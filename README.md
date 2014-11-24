@@ -66,7 +66,7 @@ Week 1 (OO Ruby)
         - TDD - Test Driven Development
         - BDD - Behaviour Driven Development
         - OOD - Object Oriented Development
-        - OOP - Object Oriented Development
+        - OOP - Object Oriented Programming
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
