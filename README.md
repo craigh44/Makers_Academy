@@ -241,6 +241,9 @@ Week 7 (Node)
   - [ ] [CoffeeBuzz](#) (Weekday Project)
 
         - A simple kata to understand the CoffeeScript language
+        
+  - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
+        - A brush up on your ruby skills
 
 Week 8 (Rails)
 --------
