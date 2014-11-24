@@ -186,7 +186,7 @@ Week 5 (JavaScript Core)
 
         - Re-creating RPS in javascript language
 
-  - [ ] [Up Your Alley (Sentry? Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
+  - [ ] [Up Your Alley (Polyglot Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
 
         - Crreating a ten pin bowling scorer in Javascript
 
