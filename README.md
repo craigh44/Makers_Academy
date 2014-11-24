@@ -293,7 +293,7 @@ Week 10 (Five Languages in Five Days)
 
 ####Projects:
 
-  - [ ] [Meta Programming](https://github.com/Scully87/Meta_Programming)
+  - [ ] [Meta Programming](https://github.com/makersacademy/course/blob/master/level_up/meta_programming.md)
 
         - Learning how to use meta programming with Ruby
 
