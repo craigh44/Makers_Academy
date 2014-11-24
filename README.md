@@ -86,18 +86,19 @@ Week 2 (OO Ruby in Teams)
 
   - [ ] [BattleShips](https://github.com/makersacademy/course/blob/master/battle_ships.md) (Weekday Project)
 
-        - Team Working
-        - Modelling Domain
+        - Teamwork
+        - Domain modelling
         - The game engine
         - User Interface
 
   - [ ] [Take-Away (Rubyist Badge)](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
 
         - Twilio Gem
+        - Mocking calls to external APIs
 
   - [ ] [Inject Method (Rubyist Badge)](https://github.com/makersacademy/inject-challenge) (Friday Challenge)
 
-        - Opening up the Inject method to get a better understanding
+        - Reimplementing the Inject method
 
 ![Rubyist](images/badges/Rubyist_thumb.jpg)
 
@@ -145,11 +146,11 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
 
   - [ ] [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager.md) (Weekday Project)
 
-        - Learning how to use Databases
+        - Learning how to use relational databases
 
   - [ ] [Twitter Clone (Data Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
 
-        - Creating a twitter clone using Databases.
+        - Creating a Twitter clone using databases.
 
 ![Data](images/badges/Data_thumb.jpg)
 
