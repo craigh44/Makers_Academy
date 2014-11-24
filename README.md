@@ -24,7 +24,7 @@ Pre-Course
         - Walkthrough
         - Exercises
   
-  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat-challenge) (Friday Challenge)
+  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
 
         - Github Practice
         
@@ -175,7 +175,7 @@ Week 5 (JavaScript Core)
 
         - Learn how to use the programming language javascript by doing a simple kata
 
-  - [ ] [Airport](https://github.com/makersacademy/airport-challenge) (Weekday Project)
+  - [ ] [Airport](https://github.com/makersacademy/airport_challenge) (Weekday Project)
 
         - Use javascript to create an OOP program
 
@@ -211,7 +211,7 @@ Week 6 (JavaScript Front End)
 
         - Create a program to show current temperature and local weather report in a static location (London).
 
-  - [ ] [Github Profiles API](https://github.com/makersacademy/profiles-challenge) (Weekday Project)
+  - [ ] [Github Profiles API](https://github.com/makersacademy/profiles_challenge) (Weekday Project)
 
         - Create a simple page to show the use of Github user profiles through the developer API
 
