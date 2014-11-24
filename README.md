@@ -60,7 +60,7 @@ Week 1 (OO Ruby)
 
   - [ ] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/makersacademy/course/boris_bikes.md) (Weekday Project)
+  - [ ] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
 
         - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
