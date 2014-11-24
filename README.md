@@ -188,7 +188,7 @@ Week 5 (JavaScript Core)
 
   - [ ] [Up Your Alley (Polyglot Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
 
-        - Crreating a ten pin bowling scorer in Javascript
+        - Creating a ten pin bowling scorer in Javascript
 
 ![Sentry](images/badges/Sentry_thumb.jpg)
 
