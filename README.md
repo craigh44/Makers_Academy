@@ -217,7 +217,7 @@ Week 6 (JavaScript Front End)
 
         - Create a simple page to show the use of Github user profiles through the developer API
 
-  - [ ] [Chitter Frontman Badge)](https://github.com/makersacademy/frontman-challenge) (Friday Challenge)
+  - [ ] [Chitter Frontman Badge](https://github.com/makersacademy/frontman-challenge) (Friday Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
 
