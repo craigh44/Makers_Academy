@@ -159,16 +159,12 @@ Week 5 (JavaScript Core)
 ####Technologies Used:
   - [Javascript](http://www.w3schools.com/js/)
   - [Jasmine](http://jasmine.github.io/)
-  - [io](http://iolanguage.org/)
   - [HTML](http://www.w3schools.com/html/)
   - [CSS](http://www.w3schools.com/css/)
   - [Sinatra](http://www.sinatrarb.com/)
 
 ####Projects:
 
-  - [ ] [Fizzbuzz io](https://github.com/makersacademy/course/blob/master/pills/IoPill.md)  (Weekday Project)
-
-        - Learn how to use the programming language io by doing a simple kata
 
   - [ ] [Javabuzz](https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md)  (Weekday Project)
 
@@ -285,7 +281,7 @@ Week 9 (Makerthon)
 
 ####Project:
 
-        - Working in a team of 4 with [Steve](https://github.com/HatStephens) [Nicole](https://github.com/NicolePell) and [Camilla](https://github.com/camillavk), to make [Jumparound](http://www.jumparound.info). Prank turned project to help our friend [Sean](https://github.com/slstevens) find his lost jumper. 
+        Working in a team of 4 with [Steve](https://github.com/HatStephens) [Nicole](https://github.com/NicolePell) and [Camilla](https://github.com/camillavk), to make [Jumparound](http://www.jumparound.info). Prank turned project to help our friend [Sean](https://github.com/slstevens) find his lost jumper. 
 
 Week 10 (Five Languages in Five Days)
 ---------
