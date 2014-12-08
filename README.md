@@ -1,46 +1,43 @@
 Makers Academy Course
 ===================
 
-#####Weekly breakdown of the 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
+#####Weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
 
-Please fork this repo to your own Github, and then edit the README to check off the parts of the course you have completed.  If you are unsure about whether you have successfully completed any part of the course, please ask a coach or alumni helper to confirm that you have finished the relevant component.
-
-Many thanks to [Tim Scully](https://github.com/Scully87) for the original design of this document
 
 Pre-Course
 -----------
 
-  - [ ] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
-  - [ ] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
-  - [ ] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
-  - [ ] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
+  - [X] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
+  - [X] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
+  - [X] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
+  - [X] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
   - [ ] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
 
         - Walkthrough
         - Exercises
 
-  - [ ] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
+  - [X] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
 
-  - [ ] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
+  - [X] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
 
         - Walkthrough
         - Exercises
   
-  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
+  - [X] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
 
         - Github Practice
         
-  - [ ] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
+  - [X] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
 
         - Exercises from links
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
+  - [X] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
 
         - First Project
 
-  - [ ] Useful Links:
+  - [X] Useful Links:
 
     - [Try Git](https://try.github.io/levels/1/challenges/1)
     - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -60,9 +57,9 @@ Week 1 (OO Ruby)
 
 ####Projects:
 
-  - [ ] Introduction
+  - [X] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
+  - [X] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
 
         - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
@@ -72,7 +69,7 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge) 
+  - [X] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge) 
 
 ![Architect](images/badges/Architect_thumb.jpg)
 
@@ -277,13 +274,18 @@ Week 9 (Makerthon)
 --------
 
 ####Technologies Used:
-  - You tell us!
 
-####Projects:
+  - Ruby on Rails
+  - HTML & CSS
+  - Googlemaps API
+  - Gmaps.js
+  - Bootstrap
+  - Devise
+  - Omniauth
 
-  - [ ] Makerthon
+####Project:
 
-        - Small Team Projects.
+        - Working in a team of 4 with [Steve](https://github.com/HatStephens) [Nicole](https://github.com/NicolePell) and [Camilla](https://github.com/camillavk), to make [Jumparound](http://www.jumparound.info). Prank turned project to help our friend [Sean](https://github.com/slstevens) find his lost jumper. 
 
 Week 10 (Five Languages in Five Days)
 ---------
@@ -327,20 +329,14 @@ Week 10 (Five Languages in Five Days)
 Week 11 (Final Project)
 ---------
 
-####Technologies Used:
-  - You tell us!
+#Stackovertube
 
-####Projects:
-  - You tell us!
 
 Week 12 (Final Project)
 ---------
 
-####Technologies Used:
-  - You tell us!
+#Stackovertube
 
-####Projects:
-  - You tell us!
 
 
 
