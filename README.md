@@ -281,7 +281,7 @@ Week 9 (Makerthon)
 
 ####Project:
 
-        Working in a team of 4 with [Steve](https://github.com/HatStephens) [Nicole](https://github.com/NicolePell) and [Camilla](https://github.com/camillavk), to make [Jumparound](http://www.jumparound.info). Prank turned project to help our friend [Sean](https://github.com/slstevens) find his lost jumper. 
+Working in a team of 4 with [Steve](https://github.com/HatStephens) [Nicole](https://github.com/NicolePell) and [Camilla](https://github.com/camillavk), to make [Jumparound](http://www.jumparound.info). Prank turned project to help our friend [Sean](https://github.com/slstevens)find his lost jumper. 
 
 Week 10 (Five Languages in Five Days)
 ---------
