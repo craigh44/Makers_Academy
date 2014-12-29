@@ -90,14 +90,11 @@ Week 2 (OO Ruby in Teams)
         - The game engine
         - User Interface
 
-  - [ ] [Take-Away (Rubyist Badge)](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
+  - [X] [Take-Away (Rubyist Badge)](https://github.com/craigh44/takeaway_menu) (Friday Challenge)
 
         - Twilio Gem
         - Mocking calls to external APIs
 
-  - [ ] [Inject Method (Rubyist Badge)](https://github.com/makersacademy/inject-challenge) (Friday Challenge)
-
-        - Reimplementing the Inject method
 
 ![Rubyist](images/badges/Rubyist_thumb.jpg)
 
@@ -262,7 +259,7 @@ Week 8 (Rails)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram (Machinist Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
+  - [ ] [Instagram (Machinist Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
 
         - A weekend project to re-create Instagram
 
